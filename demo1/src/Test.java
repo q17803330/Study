@@ -6,6 +6,7 @@ public class Test{
         System.out.println(y);
         a();
         System.out.println("test");
+        System.out.println("test2121221");
 
     }
     private static void a(){
