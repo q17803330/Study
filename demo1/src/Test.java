@@ -5,6 +5,7 @@ public class Test{
 //        System.out.println(x==y);
         System.out.println(y);
         a();
+        System.out.println("test");
 
     }
     private static void a(){
